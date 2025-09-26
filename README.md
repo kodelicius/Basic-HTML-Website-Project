@@ -1,4 +1,5 @@
 # Readme: Basic-HTML-Website-Projcet
 instruction: https://roadmap.sh/projects/basic-html-website
 # Result:
-<img width="1567" height="960" alt="1" src="https://github.com/user-attachments/assets/3fb8b804-2fd0-4ea4-8bc0-c3b1f6e7cedd" />
+<img width="1652" height="955" alt="Screenshot 2025-09-26 190757" src="https://github.com/user-attachments/assets/9495e926-b977-429a-b9e8-9587c0de22af" />
+
